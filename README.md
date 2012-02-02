@@ -1,4 +1,5 @@
-<h1>sagaCarousel</h1>
+sagaCarousel
+============
 
 <p>
 <strong>sagaCarousel</strong> is a jquery carousel plugin.<br/>
