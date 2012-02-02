@@ -1,5 +1,5 @@
 (function ($) {
-$.fn.dylanCarousel = function (options) {
+$.fn.sagaCarousel = function (options) {
 	var settings = $.extend({
 	    circular: true,
 	    pageNo: 0,
